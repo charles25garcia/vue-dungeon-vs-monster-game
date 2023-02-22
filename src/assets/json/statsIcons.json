@@ -1,0 +1,30 @@
+[
+    {
+        "name": "health",
+        "icon": "heartbeat"
+    },
+    {
+        "name": "mana",
+        "icon": "hand-holding-water"
+    },
+    {
+        "name": "off",
+        "icon": "fist-raised"
+    },
+    {
+        "name": "def",
+        "icon": "shield-alt"
+    },
+    {
+        "name": "agi",
+        "icon": "running"
+    },
+    {
+        "name": "int",
+        "icon": "head-side-virus"
+    }    ,
+    {
+        "name": "luk",
+        "icon": "user-shield"
+    }
+]

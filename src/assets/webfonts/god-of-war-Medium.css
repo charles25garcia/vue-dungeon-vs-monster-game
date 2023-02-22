@@ -1,0 +1,8 @@
+@font-face
+{
+    font-family: 'god-of-war-Medium';
+  src: url('god-of-war-Medium.eot');
+  src: url('god-of-war-Medium.eot?#') format('embedded-opentype'),
+      url('god-of-war-Medium.woff') format('woff'),
+      url('god-of-war-Medium.ttf') format('truetype');
+}
